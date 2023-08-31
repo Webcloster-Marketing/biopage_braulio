@@ -1,3 +1,4 @@
 export default { 
-  base: `/biopage_braulio/`,
+  // base: `/biopage_braulio/`,
+  base: `./`
 }
