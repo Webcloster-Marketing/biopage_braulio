@@ -24,3 +24,17 @@ pnpx tailwindcss init -p
 # Install alpine js
 pnpm install alpinejs
 ```
+
+## Development server
+
+```sh
+# Start development server
+pnpm run dev
+```
+
+## Production
+
+```sh
+# Build project
+pnpm run build
+```
