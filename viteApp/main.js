@@ -15,7 +15,7 @@ Alpine.data("biodata", () => ({
     {
       name: "instagram",
       icon: "instagram",
-      link: "https://www.behance.net/juliancardona3"
+      link: "https://www.instagram.com/pixel_creativo_316"
     },
     {
       name: "behance",
