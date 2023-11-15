@@ -24,7 +24,9 @@ Alpine.data("biodata", () => ({
     },
   ],
 
-  bio_whatsapp: "+573215710472",
+  // bio_whatsapp: "+573215710472",
+  // replace to tapxter number
+  bio_whatsapp: "+573185884480",
 
 }));
 
