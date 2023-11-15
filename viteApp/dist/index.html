@@ -18,7 +18,7 @@
       href="https://cdn.jsdelivr.net/npm/remixicon@3.2.0/fonts/remixicon.css"
       rel="stylesheet"
     />
-    <script type="module" crossorigin src="./assets/index-e79cd5c4.js"></script>
+    <script type="module" crossorigin src="./assets/index-ec58bf39.js"></script>
     <link rel="stylesheet" href="./assets/index-113706c8.css">
   </head>
 
@@ -168,7 +168,7 @@
         <!-- Whatsapp button -->
         <div class="flex mt-10">
           <a
-            :href="'https://wa.me/'+bio_whatsapp"
+            :href="'https://wa.me/'+bio_whatsapp+ '?text=' + encodeURI(bio_whatsapp_message)"
             target="_blank"
             class="p-4 bg-slate-200 rounded-lg shadow-md hover:shadow-xl hover:scale-110 ease-in-out duration-300 flex items-center lg:text-xl"
           >
